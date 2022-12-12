@@ -5,7 +5,7 @@
 <bitcoin>org-amanciojsilvjr"style="height:20px
 
 
-<img   style="height:20px;" data-toggle="tooltip" data-placement="top" data-src="/wp-content/uploads/crypto.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<img  <img width="896" height="597" alt="nofeature" style="max-width style="height:20px;" data-toggle="tooltip" data-placement="top" data-src="/wp-content/uploads/crypto.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 
 
