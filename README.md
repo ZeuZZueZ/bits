@@ -33,7 +33,7 @@ Development Process
 <a href="https://github.com/Pepyn0/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/github/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
@@ -45,11 +45,11 @@ Development Process
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeuZZueZ&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ## Stack
-![Bitcoin](https://img.shields.io/badge/anuraghazra?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/bitcoin?style=for-the-badge&logo=bitcoin&logoColor=white)
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
