@@ -5,8 +5,8 @@
 <bitcoin>org-amanciojsilvjr"style="height:20px
 
 
-<img  <img width="896" height="597" alt="nofeature" style="max-width style="height:20px;" data-toggle="tooltip" data-placement="top" data-src="/wp-content/uploads/crypto.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
+<img width="896" height="597" alt="nofeature" style="max-width: 100%; height: auto;" data-srcset="https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4.png 896w, https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4-300x200.png 300w, https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4-768x512.png 768w" data-src="https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4.png" data-sizes="(max-width: 896px) 100vw, 896px" class="image wp-image-53582  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 
 
@@ -14,4 +14,4 @@
 
 
 
-data-srcset="https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4.png 896w, https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4-300x200.png 300w, https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4-768x512.png 768w" data-src="https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4.png" data-sizes="(max-width: 896px) 100vw, 896px" class="image wp-image-53582  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+data-src
