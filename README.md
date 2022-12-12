@@ -23,6 +23,21 @@ Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYI
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ZeuZZueZ&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/ZeuZZueZ/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeuZZueZ&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
@@ -47,6 +62,7 @@ lots of money.
 
 ### Automated Testing
 
+
 Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
 submit new unit tests for old code. Unit tests can be compiled and run
 (assuming they weren't disabled in configure) with: `make check`. Further details on running
@@ -60,6 +76,7 @@ The CI (Continuous Integration) systems make sure that every pull request is bui
 and that unit/sanity tests are run automatically.
 
 ### Manual Quality Assurance (QA) Testing
+
 
 Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
