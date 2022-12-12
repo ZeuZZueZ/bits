@@ -6,7 +6,7 @@
 
 
 
-data-src:https://06.06.06<data-src="https://www.blockchaincenter.net/
+data-src:https://6.6.6/blockchaincenter.net/
 
 
 
