@@ -24,8 +24,7 @@ information or see https://opensource.org/licenses/MIT.
 
 Development Process
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeuZZueZ&repo=github-readme-stats" />
-</a>
+  
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
@@ -42,7 +41,8 @@ Development Process
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeuZZueZ&count_private=true)
 
 ## Stack
-![Bitcoin](https://img.shields.io/badge/bitcoin?style=for-the-badge&logo=bitcoin&logoColor=white)
+!
+[Bitcoin](https://img.shields.io/badge/bitcoin-johhny?style=for-the-badge&logo=bitcoin&logoColor=white)
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
