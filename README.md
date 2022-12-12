@@ -6,7 +6,7 @@
 
 
 
-data-src:https://06.06.06<img width="896" height="597" alt="nofeature" style="max-width: 100%; height: auto;" data-srcset=png 896w,png 300w,768w" data-src="https://www.blockchaincenter.net/wp-content/uploads/bitcoin-rainbow-chart-4.png" data-sizes="(max-width: 896px) 100vw, 896px" class="image wp-image-53582  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+data-src:https://06.06.06<data-src="https://www.blockchaincenter.net/
 
 
 
