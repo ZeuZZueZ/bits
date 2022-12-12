@@ -1,10 +1,2 @@
-<url> https://btc.com/
-   <ul class="langswitcher"><i id="darkmode" class="far fa-moon" data-darkmode="false" title="Dark Mode on/off"></i>
-    <div>
-      <div> https://bitcoin.org<li class="lang-item lang-item-23 
-        <a/> lang-item-de lang-item-first"><a>
-          <div> lang="de-DE" hreflang="
-             ### de-DE"href=" https://www.blockchaincenter.net<li krypto <div> -boersen/href= "" https://www.blockchaincenter.net/en/crypto-exchange <img>blockchaincenter.net/en/crypto-exchange src="data:image/png;base78.9 CA/ alt="Deutsch" width="16" height="11" style="width: 16px; height: 11px;"></a></li>
-               <imagem><li class="lang-item lang-item-25 lang-item-en current-lang"><a lang="en-US" hreflang="en-US" href=" 
-                 <bits> https://www.blockchaincenter.net/en/crypto-exchange/ 
-                   <div> "><img src="data:image/png;base64,i0/
+
+<table cellspacing="0" style="height: 300px; width: 300px;"><tr><td style="padding: 0px;"></td><td style="padding: 0px; position: relative; width: 226px; height: 274px;"><div style="width: 100%; height: 100%; position: relative; overflow: hidden;"><canvas width="678" height="822" style="width: 226px; height: 274px; position: absolute; z-index: 1; left: 0px; top: 0px;"></canvas><canvas width="678" height="822" style="width: 226px; height: 274px; position: absolute; z-index: 2; left: 0px; top: 0px;"></canvas></div></td><td style="padding: 0px;"><div style="height: 274px; overflow: hidden; width: 74px; left: 0px; position: relative; min-width: 74px;"><canvas width="222" height="822" style="width: 74px; height: 274px; position: absolute; z-index: 1; left: 0px; top: 0px;"></canvas><canvas width="222" height="822" style="width: 74px; height: 274px; position: absolute; z-index: 2; left: 0px; top: 0px;"></canvas></div></td></tr><tr><td style="padding: 0px;"></td><td style="height: 26px; padding: 0px; width: 226px;"><div style="width: 100%; height: 100%; position: relative; overflow: hidden;"><canvas width="678" height="78" style="width: 226px; height: 26px; position: absolute; z-index: 1; left: 0px; top: 0px;"></canvas><canvas width="678" height="78" style="width: 226px; height: 26px; position: absolute; z-index: 2; left: 0px; top: 0px;"></canvas></div></td><td style="padding: 0px;"><div style="width: 74px; height: 26px; overflow: hidden; min-width: 74px;"><canvas width="222" height="78" style="width: 74px; height: 26px;"></canvas></div></td></tr></table>
