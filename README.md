@@ -24,7 +24,6 @@ information or see https://opensource.org/licenses/MIT.
 
 Development Process
 
-<a href="https://github.com/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeuZZueZ&repo=github-readme-stats" />
 </a>
 
@@ -46,7 +45,7 @@ Development Process
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeuZZueZ&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeuZZueZ&count_private=true)
 
 ## Stack
 ![Bitcoin](https://img.shields.io/badge/bitcoin?style=for-the-badge&logo=bitcoin&logoColor=white)
